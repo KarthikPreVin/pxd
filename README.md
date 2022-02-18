@@ -1,4 +1,4 @@
-## pxd
+
 # python x discord 
 
 this Module deals with accesing discord with python.. main usage would be to send,receive messages and add reactions to messages
