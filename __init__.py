@@ -177,5 +177,5 @@ def help():
     print(HELP)
     print('\n\n _______________ \n|Example-Program|\n ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\n')
     print(TUTORIAL)
-        
+ print('pxd.help() for more info on the module')
             
